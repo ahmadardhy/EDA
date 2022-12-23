@@ -1,0 +1,51 @@
+No;Indeks;Jumlah Kaki;Ukuran Tubuh;Cara Melahirkan;Sayap;Tanduk;Gigi Taring;Lengan Pencapit;Kelas
+1;Gajah;4;besar;beranak;tidak;tidak;ya;tidak;Mamalia
+2;Kanguru;4;sedang;beranak;tidak;tidak;tidak;tidak;Mamalia
+3;Sapi;4;besar;beranak;tidak;ya;tidak;tidak;Mamalia
+4;Kelelawar;4;kecil;beranak;ya;tidak;ya;tidak;Mamalia
+5;Kelinci;4;kecil;beranak;tidak;tidak;tidak;tidak;Mamalia
+6;Tikus;4;kecil;beranak;tidak;tidak;tidak;tidak;Mamalia
+7;Musang;4;kecil;beranak;tidak;tidak;ya;tidak;Mamalia
+8;Kuda Nil;4;besar;beranak;tidak;tidak;ya;tidak;Mamalia
+9;Babon;4;kecil;beranak;tidak;tidak;ya;tidak;Mamalia
+10;Paus Sperma;0;besar;beranak;tidak;tidak;ya;tidak;Mamalia
+11;Babi Hutan;4;sedang;beranak;tidak;tidak;ya;tidak;Mamalia
+12;Babi Rusa;4;sedang;beranak;tidak;tidak;ya;tidak;Mamalia
+13;Babi Ternak;4;sedang;beranak;tidak;tidak;tidak;tidak;Mamalia
+14;Rusa;4;sedang;beranak;tidak;ya;tidak;tidak;Mamalia
+15;Kucing;4;kecil;beranak;tidak;tidak;ya;tidak;Mamalia
+16;Badak;4;besar;beranak;tidak;ya;tidak;tidak;Mamalia
+17;Macan;4;sedang;beranak;tidak;tidak;ya;tidak;Mamalia
+18;Harimau;4;sedang;beranak;tidak;tidak;ya;tidak;Mamalia
+19;Singa;4;sedang;beranak;tidak;tidak;ya;tidak;Mamalia
+20;Kambing;4;sedang;beranak;tidak;ya;tidak;tidak;Mamalia
+21;Kerbau;4;besar;beranak;tidak;ya;tidak;tidak;Mamalia
+22;Jerapah;4;besar;beranak;tidak;ya;tidak;tidak;Mamalia
+23;Kuda;4;besar;beranak;tidak;tidak;tidak;tidak;Mamalia
+24;Domba;4;sedang;beranak;tidak;ya;tidak;tidak;Mamalia
+25;Unta;4;besar;beranak;tidak;tidak;tidak;tidak;Mamalia
+26;Nyamuk;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+27;Lalat;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+28;Lebah;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+29;Undur-undur;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+30;Anjing Tanah;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+31;Kupu-kupu;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+32;Kumbang Tanduk;6;sangat kecil;bertelur;ya;ya;tidak;tidak;Insekta
+33;Capung;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+34;Tawon;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+35;Kunang-kunang;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+36;Kumbang Koksi;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+37;Jangkrik;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+38;Kecoa;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+39;Laron;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+40;Ngengat;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+41;Kalajengking;8;sangat kecil;bertelur;tidak;tidak;tidak;ya;Insekta
+42;Belalang Sembah;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+43;Kutu;6;sangat kecil;bertelur;tidak;tidak;tidak;tidak;Insekta
+44;Wereng;6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+45;Semut Charlie (Tomcat);6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+46;Kelabang;20;sangat kecil;bertelur;tidak;tidak;tidak;tidak;Insekta
+47;Semut Api;6;sangat kecil;bertelur;tidak;tidak;tidak;tidak;Insekta
+48;Serangga Pencium (Kissing Bugs);6;sangat kecil;bertelur;ya;tidak;tidak;tidak;Insekta
+49;Kalajengking Cambuk (Ketonggeng);8;sangat kecil;bertelur;tidak;tidak;tidak;ya;Insekta
+50;Kaki Seribu (Luwing);400;sangat kecil;bertelur;tidak;tidak;tidak;tidak;Insekta
